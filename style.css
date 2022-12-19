@@ -1,0 +1,30 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+.facebook_icon {
+	width: 50px;
+}
+li img {
+	width: 50px;
+}
+li a {
+	text-decoration: none;
+}
+.username {
+	color: black;
+	font-family: 'Times New Roman', Times, serif;
+}
+.post {
+	margin-top: 50px;
+}
+.profile-icon {
+	width: 50px;
+	border-radius: 18px;
+}
+td, th{
+	border: 1px solid green;
+}
+footer a {
+	text-decoration: none;
+}
